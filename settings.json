@@ -1,0 +1,12 @@
+{"train" : "data/train.csv",
+"test" : "data/test.csv",
+"train_xgb" : "features/train_xgb.csv",
+"test_xgb" : "features/test_xgb.csv",
+"train_rf" : "features/train_rf.csv",
+"test_rf" : "features/test_rf.csv",
+"train_lr" : "features/train_lr.csv",
+"test_lr" : "features/test_lr.csv",
+"train_p1" : "features/train_p1.csv",
+"test_p1" : "features/test_p1.csv",
+"submission" : "submissions/submission.csv"
+}
